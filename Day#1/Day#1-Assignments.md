@@ -61,7 +61,8 @@ details:ChatGPT is a generative artificial intelligence (AI) chatbot[2][3] devel
 
 #### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
 > Add your answer here!
-https://github.com/Harikk1/22AM0XE-Assignments/tree/7376222AD141/HARI-PRASATH-KK
+![image](https://github.com/user-attachments/assets/074375ec-f1ca-4a0a-81de-9f9e3137fc51)
+
 ***
 
 #### #6 Create a LinkedIn account with personal mail ID
