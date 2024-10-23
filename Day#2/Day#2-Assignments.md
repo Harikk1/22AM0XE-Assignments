@@ -74,6 +74,6 @@ https://github.com/SanthoshNC/22AM0XE-Assignments/pull/25
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
 > Add your answer here!
-
+https://www.linkedin.com/posts/hari-prasath-kk_activity-7254890281274130432-hmmS?utm_source=share&utm_medium=member_android
 
 ***
