@@ -35,7 +35,8 @@ tensorflow-1-helloworld
 
 #### #2 Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots
 > Add your answer here!
-![Screenshot 2024-10-21 161315](https://github.com/user-attachments/assets/b02ae71f-7bd9-4891-8428-433c96992701)
+
+![image](https://github.com/user-attachments/assets/b0294c54-4f98-4167-9f81-08807e834440)
 
 ***
 
